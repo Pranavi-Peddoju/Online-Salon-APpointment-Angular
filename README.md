@@ -1,1 +1,1 @@
-# Online-Salon-APpointment-Angular
+# Online-Salon-Appointment-Angular
